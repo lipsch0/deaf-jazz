@@ -1,3 +1,3 @@
- # jazz label
+# jazz label
  
- Whitey
+U/Whitey
