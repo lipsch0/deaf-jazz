@@ -1,3 +1,0 @@
-# jazz label
- 
-Whitey
